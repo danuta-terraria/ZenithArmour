@@ -44,7 +44,7 @@ namespace ZenithArmour.Items.Armour
 			recipe.AddIngredient(ItemID.CobaltHelmet, 1);
 			recipe.AddIngredient(ItemID.MythrilHelmet, 1);
 			recipe.AddIngredient(ItemID.AdamantiteHelmet, 1);
-			recipe.AddIngredient(ItemID.ChlorophyteHelmet, 1);
+			recipe.AddIngredient(ItemID.ChlorophyteMask, 1);
 			recipe.AddIngredient(ItemType<TerraHelmet>(), 1);
 			recipe.AddIngredient(ItemID.SolarFlareHelmet, 1);
 			recipe.AddIngredient(ItemID.VortexHelmet, 1);
@@ -61,7 +61,7 @@ namespace ZenithArmour.Items.Armour
 			recipe2.AddIngredient(ItemID.CobaltHelmet, 1);
 			recipe2.AddIngredient(ItemID.OrichalcumHelmet, 1);
 			recipe2.AddIngredient(ItemID.AdamantiteHelmet, 1);
-			recipe2.AddIngredient(ItemID.ChlorophyteHelmet, 1);
+			recipe2.AddIngredient(ItemID.ChlorophyteMask, 1);
 			recipe2.AddIngredient(ItemType<TerraHelmet>(), 1);
 			recipe2.AddIngredient(ItemID.SolarFlareHelmet, 1);
 			recipe2.AddIngredient(ItemID.VortexHelmet, 1);
@@ -78,7 +78,7 @@ namespace ZenithArmour.Items.Armour
 			recipe3.AddIngredient(ItemID.CobaltHelmet, 1);
 			recipe3.AddIngredient(ItemID.MythrilHelmet, 1);
 			recipe3.AddIngredient(ItemID.TitaniumHelmet, 1);
-			recipe3.AddIngredient(ItemID.ChlorophyteHelmet, 1);
+			recipe3.AddIngredient(ItemID.ChlorophyteMask, 1);
 			recipe3.AddIngredient(ItemType<TerraHelmet>(), 1);
 			recipe3.AddIngredient(ItemID.SolarFlareHelmet, 1);
 			recipe3.AddIngredient(ItemID.VortexHelmet, 1);
@@ -95,7 +95,7 @@ namespace ZenithArmour.Items.Armour
 			recipe4.AddIngredient(ItemID.CobaltHelmet, 1);
 			recipe4.AddIngredient(ItemID.OrichalcumHelmet, 1);
 			recipe4.AddIngredient(ItemID.TitaniumHelmet, 1);
-			recipe4.AddIngredient(ItemID.ChlorophyteHelmet, 1);
+			recipe4.AddIngredient(ItemID.ChlorophyteMask, 1);
 			recipe4.AddIngredient(ItemType<TerraHelmet>(), 1);
 			recipe4.AddIngredient(ItemID.SolarFlareHelmet, 1);
 			recipe4.AddIngredient(ItemID.VortexHelmet, 1);
@@ -112,7 +112,7 @@ namespace ZenithArmour.Items.Armour
 			recipe5.AddIngredient(ItemID.PalladiumHelmet, 1);
 			recipe5.AddIngredient(ItemID.MythrilHelmet, 1);
 			recipe5.AddIngredient(ItemID.AdamantiteHelmet, 1);
-			recipe5.AddIngredient(ItemID.ChlorophyteHelmet, 1);
+			recipe5.AddIngredient(ItemID.ChlorophyteMask, 1);
 			recipe5.AddIngredient(ItemType<TerraHelmet>(), 1);
 			recipe5.AddIngredient(ItemID.SolarFlareHelmet, 1);
 			recipe5.AddIngredient(ItemID.VortexHelmet, 1);
@@ -129,7 +129,7 @@ namespace ZenithArmour.Items.Armour
 			recipe6.AddIngredient(ItemID.PalladiumHelmet, 1);
 			recipe6.AddIngredient(ItemID.OrichalcumHelmet, 1);
 			recipe6.AddIngredient(ItemID.AdamantiteHelmet, 1);
-			recipe6.AddIngredient(ItemID.ChlorophyteHelmet, 1);
+			recipe6.AddIngredient(ItemID.ChlorophyteMask, 1);
 			recipe6.AddIngredient(ItemType<TerraHelmet>(), 1);
 			recipe6.AddIngredient(ItemID.SolarFlareHelmet, 1);
 			recipe6.AddIngredient(ItemID.VortexHelmet, 1);
@@ -146,7 +146,7 @@ namespace ZenithArmour.Items.Armour
 			recipe7.AddIngredient(ItemID.PalladiumHelmet, 1);
 			recipe7.AddIngredient(ItemID.MythrilHelmet, 1);
 			recipe7.AddIngredient(ItemID.TitaniumHelmet, 1);
-			recipe7.AddIngredient(ItemID.ChlorophyteHelmet, 1);
+			recipe7.AddIngredient(ItemID.ChlorophyteMask, 1);
 			recipe7.AddIngredient(ItemType<TerraHelmet>(), 1);
 			recipe7.AddIngredient(ItemID.SolarFlareHelmet, 1);
 			recipe7.AddIngredient(ItemID.VortexHelmet, 1);
@@ -163,7 +163,7 @@ namespace ZenithArmour.Items.Armour
 			recipe8.AddIngredient(ItemID.PalladiumHelmet, 1);
 			recipe8.AddIngredient(ItemID.OrichalcumHelmet, 1);
 			recipe8.AddIngredient(ItemID.TitaniumHelmet, 1);
-			recipe8.AddIngredient(ItemID.ChlorophyteHelmet, 1);
+			recipe8.AddIngredient(ItemID.ChlorophyteMask, 1);
 			recipe8.AddIngredient(ItemType<TerraHelmet>(), 1);
 			recipe8.AddIngredient(ItemID.SolarFlareHelmet, 1);
 			recipe8.AddIngredient(ItemID.VortexHelmet, 1);
