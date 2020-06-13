@@ -1,0 +1,3 @@
+Zenith Armour adds 3 new Armours to the game, culminating in Zenith Armour.
+
+It also adds a number of crafting recipes to support these new Armours.
