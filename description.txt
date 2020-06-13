@@ -5,8 +5,11 @@ It also adds a number of crafting recipes to support these new Armours.
 Knight of the Round Table Armour:
 ==================================
 Knight of the Round Table Helmet = Hallowed Helmet / Hallowed Mask / Hallowed Headgear + Broken Hero Armour Piece
-Knight of the Round Table Breastplate = Hallowed Plate Mail + Broken Armour Piece
-Knight of the Round Table Leggings = Hallowed Greaves + Broken Armour Piece
+Knight of the Round Table Breastplate = Hallowed Plate Mail + Broken Hero Armour Piece
+Knight of the Round Table Leggings = Hallowed Greaves + Broken Hero Armour Piece
+
+Broken Hero Armour Pieces are dropped by Mothron.
+
 
 Terra Armour:
 =============
