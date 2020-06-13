@@ -31,9 +31,6 @@ namespace ZenithArmour.Items.Armour
 			player.moveSpeed += 0.3f;
 			player.meleeSpeed += 0.2f;
 			player.kbGlove = true;
-			player.meleeCrit += 40;
-			player.magicCrit += 40;
-			player.fishingSkill += 30;
 		}
 
 
