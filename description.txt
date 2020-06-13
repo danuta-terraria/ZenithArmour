@@ -1,3 +1,29 @@
 Zenith Armour adds 3 new Armours to the game, culminating in Zenith Armour.
 
 It also adds a number of crafting recipes to support these new Armours.
+
+Knight of the Round Table Armour:
+==================================
+Knight of the Round Table Helmet = Hallowed Helmet / Hallowed Mask / Hallowed Headgear + Broken Hero Armour Piece
+Knight of the Round Table Breastplate = Hallowed Plate Mail + Broken Armour Piece
+Knight of the Round Table Leggings = Hallowed Greaves + Broken Armour Piece
+
+Terra Armour:
+=============
+Terra Helmet = Molten Helmet + Jungle Hat + Necro Helmet + Bee Headgear + Knight of the Round Table Helmet
+Terra Breastplate = Molten Breastplate + Jungle Shirt + Necro Breastplate + Bee Breastplate + Knight of the Round Table Breastplate
+Terra Leggings = Molten Greaves + Jungle Pants + Necro Greaves + Bee Greaves + Knight of the Round Table Leggings
+
+Zenith Armour:
+==============
+Zenith Helmet = Angler Hat + Copper Helmet + Meteor Helmet + Cobalt / Palladium Helmet + Mythril / Orichalcum Helmet +
+Adamantite / Titanium Helmet + Chlorophyte Mask + Terra Helmet + Solar Flare Helmet + Vortex Helmet + Nebula Helmet + 
+Stardust Helmet
+
+Zenith Breastplate = Angler Vest + Copper Chainmail + Meteor Suit + Cobalt / Palladium Breastplate + 
+Mythril / Orichalcum Breastplate + Adamantite / Titanium Breastplate + Chlorophyte Chainmail + Terra Breastplate + 
+Solar Flare Breastplate + Vortex Breastplate + Nebula Breastplate + Stardust Breastplate
+
+Zenith Leggings = Angler Pants + Copper Greaves + Meteor Leggings + Cobalt / Palladium Leggings + 
+Mythril / Orichalcum Leggings + Adamantite / Titanium Leggings + Chlorophyte Greaves + Terra Leggings + Solar Flare Leggings + 
+Vortex Leggings + Nebula Leggings + Stardust Leggings
