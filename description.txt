@@ -16,14 +16,8 @@ Terra Leggings = Molten Greaves + Jungle Pants + Necro Greaves + Bee Greaves + K
 
 Zenith Armour:
 ==============
-Zenith Helmet = Angler Hat + Copper Helmet + Meteor Helmet + Cobalt / Palladium Helmet + Mythril / Orichalcum Helmet +
-Adamantite / Titanium Helmet + Chlorophyte Mask + Terra Helmet + Solar Flare Helmet + Vortex Helmet + Nebula Helmet + 
-Stardust Helmet
+Zenith Helmet = Angler Hat + Copper Helmet + Meteor Helmet + Cobalt / Palladium Helmet + Mythril / Orichalcum Helmet +Adamantite / Titanium Helmet + Chlorophyte Mask + Terra Helmet + Solar Flare Helmet + Vortex Helmet + Nebula Helmet + Stardust Helmet
 
-Zenith Breastplate = Angler Vest + Copper Chainmail + Meteor Suit + Cobalt / Palladium Breastplate + 
-Mythril / Orichalcum Breastplate + Adamantite / Titanium Breastplate + Chlorophyte Chainmail + Terra Breastplate + 
-Solar Flare Breastplate + Vortex Breastplate + Nebula Breastplate + Stardust Breastplate
+Zenith Breastplate = Angler Vest + Copper Chainmail + Meteor Suit + Cobalt / Palladium Breastplate + Mythril / Orichalcum Breastplate + Adamantite / Titanium Breastplate + Chlorophyte Chainmail + Terra Breastplate + Solar Flare Breastplate + Vortex Breastplate + Nebula Breastplate + Stardust Breastplate
 
-Zenith Leggings = Angler Pants + Copper Greaves + Meteor Leggings + Cobalt / Palladium Leggings + 
-Mythril / Orichalcum Leggings + Adamantite / Titanium Leggings + Chlorophyte Greaves + Terra Leggings + Solar Flare Leggings + 
-Vortex Leggings + Nebula Leggings + Stardust Leggings
+Zenith Leggings = Angler Pants + Copper Greaves + Meteor Leggings + Cobalt / Palladium Leggings + Mythril / Orichalcum Leggings + Adamantite / Titanium Leggings + Chlorophyte Greaves + Terra Leggings + Solar Flare Leggings + Vortex Leggings + Nebula Leggings + Stardust Leggings
